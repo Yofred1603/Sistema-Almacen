@@ -1,0 +1,127 @@
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.config
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.pdb
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Form1.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Area.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Categoria_Producto.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Entrada_Producto.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Personal.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Producto.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Proveedor.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Salida_Producto.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.dll
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.xml
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.resources
+C:\Users\USER\OneDrive\Documents\Trabajo Final IV\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CopyComplete
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.config
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.pdb
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\bin\Debug\FontAwesome.Sharp.dll
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.dll
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.xml
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.AssemblyReference.cache
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.SuggestedBindingRedirects.cache
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Area.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Categoria_Producto.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Entrada_Producto.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Form1.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Personal.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Producto.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Proveedor.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Salida_Producto.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.cache
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CoreCompileInputs.cache
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CopyComplete
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\bin\Debug\aa-ER\SistemaAlmacen.resources.dll
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.aa-ER.resources
+D:\INFORMACION\Descargas\SistemaAlmacen\SistemaAlmacen\obj\Debug\aa-ER\SistemaAlmacen.resources.dll
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.config
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.pdb
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\bin\Debug\aa-ER\SistemaAlmacen.resources.dll
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.dll
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.xml
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Area.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Categoria_Producto.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Entrada_Producto.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Form1.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Personal.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Producto.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Proveedor.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Salida_Producto.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.aa-ER.resources
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\aa-ER\SistemaAlmacen.resources.dll
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CopyComplete
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+C:\Users\USER\OneDrive\Documents\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.config
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.pdb
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\bin\Debug\aa-ER\SistemaAlmacen.resources.dll
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.dll
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.xml
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.AssemblyReference.cache
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Area.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Categoria_Producto.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Entrada_Producto.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Form1.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Personal.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Producto.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Proveedor.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Salida_Producto.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.aa-ER.resources
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.cache
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\aa-ER\SistemaAlmacen.resources.dll
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CopyComplete
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+C:\Users\Dariana Asencio Vega\Downloads\SistemaAlmacen\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe.config
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.exe
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\bin\Debug\SistemaAlmacen.pdb
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\bin\Debug\aa-ER\SistemaAlmacen.resources.dll
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.dll
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\bin\Debug\nunit.framework.xml
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.AssemblyReference.cache
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Area.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Categoria_Producto.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Entrada_Producto.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Form1.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Personal.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Producto.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Proveedor.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Salida_Producto.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Properties.Resources.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.Capa_Presentacion.Menu.aa-ER.resources
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.GenerateResource.cache
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\aa-ER\SistemaAlmacen.resources.dll
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.csproj.CopyComplete
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.exe
+C:\Users\Instructor\Downloads\SistemaAlmacen14\SistemaAlmacen\SistemaAlmacen\obj\Debug\SistemaAlmacen.pdb
